@@ -1,6 +1,5 @@
 <h3 align="center">“Experience is the name everyone gives to their mistakes.”</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saitpstc&label=Profile%20views&color=0e75b6&style=flat" alt="saitpstc" /> </p>
 
 - 🔭 I’m currently working on **Trading Journal API**
 
