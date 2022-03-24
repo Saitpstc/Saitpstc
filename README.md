@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Trading Journal API**
 
-- 🌱 I’m currently learning **.Net framework and WebAPI**
+- 🌱 I’m currently learning **.Net and WebAPI**
 
 - 📫 How to reach me **saitpostaci@gmail.com**
 
