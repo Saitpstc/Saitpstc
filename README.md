@@ -2,7 +2,7 @@
 
 <h4 align="center">- 🔭 I’m currently working on **Telegram Crypto Alert Bot**</h4>
 <h4 align="center">- 🌱 I’m currently learning **.Net and WebAPI**</h4>
-<h4 align="center">- 📫 How to reach me **saitpostaci@gmail.com**</h4>
+<h4 align="center">- 📫 How to reach me saitpostaci@gmail.com</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
