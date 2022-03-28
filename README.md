@@ -3,7 +3,6 @@
 <h4 align="center">- 🔭 I’m currently working on **Telegram Crypto Alert Bot**</h4>
 <h4 align="center">- 🌱 I’m currently learning **.Net and WebAPI**</h4>
 <h4 align="center">- 📫 How to reach me <a href="mailto: saitpostaci@gmail.com">saitpostaci@gmail.com</a></h4>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/sait-postac%c4%b1-8b86b4144/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sait-postac%c4%b1-8b86b4144/" height="30" width="40" /></a>
