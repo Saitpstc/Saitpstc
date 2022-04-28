@@ -1,7 +1,3 @@
-<h3 align="center">“Experience is the name everyone gives to their mistakes.”</h3>
-
-<h4 align="center">- 🔭 I’m currently working on **Telegram Crypto Alert Bot**</h4>
-<h4 align="center">- 🌱 I’m currently learning **.Net and WebAPI**</h4>
 <h4 align="center">- 📫 How to reach me <a href="mailto: saitpostaci@gmail.com">saitpostaci@gmail.com</a></h4>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
